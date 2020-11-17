@@ -39,3 +39,9 @@
 
   More of my work can be found at [meusjoseph21](https://github/com/meusjoseph21)
 
+
+## Example Images
+
+<img src ="./public/assets/images/workout.jpg">
+
+<img src = "./public/assets/images/stats.jpg">
