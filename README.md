@@ -45,3 +45,8 @@
 <img src ="./public/assets/images/workout.jpg">
 
 <img src = "./public/assets/images/stats.jpg">
+
+
+## Deployed Website 
+
+https://whispering-tundra-57532.herokuapp.com/?id=5fb445ff2b1c55001769b0ca
